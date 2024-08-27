@@ -18,7 +18,7 @@ ________________________________________________________________________________
    * Convert data types where necessary (e.g., dates, numerical values).
    * Merge datasets: Merged all cleaned data into a single DataFrame using the Pandas merge function with the inner join method.
 2. **Load Data:**
-   * Use Pymysql to	Insert the preprocessed data into a MYSQL database- by creating  a global_electronic database and table for each respective dataset and using SQL INSERT statements to load the data into the respective 
+* Use Pymysql to	Insert the preprocessed data into a MYSQL database- by creating  a global_electronic database and table for each respective dataset and using SQL INSERT statements to load the data into the respective 
      table.
 3. **Develop SQL Queries:**
 * Created 12 MYSQL queries to extract key insights from customer, sales, product, and store data.
