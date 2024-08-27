@@ -31,34 +31,34 @@ ________________________________________________________________________________
   ## Analysis Steps:
 
 1.	Customer Analysis
-     ●	Demographic Distribution: Analyzed the distribution of customers based on gender, age (calculated from birthday), and location (city, state, country, continent).
-     ●	Purchase Patterns: Identified purchasing patterns such as average order value, frequency of purchases, and preferred products.
-     ●	Segmentation: Segmented customers based on demographics and purchasing behavior to identify key customer groups.
+ ●	Demographic Distribution: Analyzed the distribution of customers based on gender, age (calculated from birthday), and location (city, state, country, continent).
+ ●	Purchase Patterns: Identified purchasing patterns such as average order value, frequency of purchases, and preferred products.
+ ●	Segmentation: Segmented customers based on demographics and purchasing behavior to identify key customer groups.
 
 2.	Sales Analysis
-     ●	Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality
-     ●	Sales by Product: Evaluate which products are the top performers in terms of quantity sold and revenue generated.
-     ●	Sales by Store: Assess the performance of different stores based on sales data.
-     ●	Sales by Currency: Examine how different currencies impact sales figures, considering exchange rates.
+●	Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality
+●	Sales by Product: Evaluate which products are the top performers in terms of quantity sold and revenue generated.
+●	Sales by Store: Assess the performance of different stores based on sales data.
+●	Sales by Currency: Examine how different currencies impact sales figures, considering exchange rates.
 
 3.	Product Analysis
-     ●	Product Popularity: Identified the most and least popular products based on sales data.
-     ●	Profitability Analysis: Calculated profit margins for products by comparing unit cost and unit price.
-     ●	Category Analysis: Analyzed sales performance across different product categories and subcategories.
+●	Product Popularity: Identified the most and least popular products based on sales data.
+●	Profitability Analysis: Calculated profit margins for products by comparing unit cost and unit price.
+●	Category Analysis: Analyzed sales performance across different product categories and subcategories.
 
 4.	Store Analysis
-     ●	Store Performance: Evaluated store performance based on sales, size (square meters), and operational data (open date).
-     ●	Geographical Analysis: Analyzed sales by store location to identify high-performing regions.
+●	Store Performance: Evaluated store performance based on sales, size (square meters), and operational data (open date).
+●	Geographical Analysis: Analyzed sales by store location to identify high-performing regions.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
   ## Main Recommendations :
-     * Tailor marketing campaigns to specific customer segments.
-     * Optimize inventory based on sales trends.
-     * Improve international pricing strategies to maximize profits.  
+     *Tailor marketing campaigns to specific customer segments.
+     *Optimize inventory based on sales trends.
+     *Improve international pricing strategies to maximize profits.  
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________
   ## References :
-     "*" Python Documentation : https://docs.python.org/3/
-     * SQL Documentation : https://dev.mysql.com/doc/
-     * PowerBi Documentation : https://learn.microsoft.com/en-us/power-bi/
-     * EDA Documentation : https://python-data-science.readthedocs.io/en/latest/exploratory.html
+     *Python Documentation : https://docs.python.org/3/
+     *SQL Documentation : https://dev.mysql.com/doc/
+     *PowerBi Documentation : https://learn.microsoft.com/en-us/power-bi/
+     *EDA Documentation : https://python-data-science.readthedocs.io/en/latest/exploratory.html
 
    
