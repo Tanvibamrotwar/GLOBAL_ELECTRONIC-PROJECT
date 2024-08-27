@@ -41,15 +41,15 @@ ________________________________________________________________________________
    * Profitability Analysis: Calculated profit margins for products by comparing unit cost and unit price.
    * Category Analysis: Analyzed sales performance across different product categories and subcategories.
 
-4.	**Store Analysis:**
+5.	**Store Analysis:**
    *  Store Performance: Evaluated store performance based on sales, size (square meters), and operational data (open date).
    * Geographical Analysis: Analyzed sales by store location to identify high-performing regions.
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
   ## Main Recommendations :
   * Tailor marketing campaigns to specific customer segments.
   * Optimize inventory based on sales trends.
   * Improve international pricing strategies to maximize profits.  
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
   ## References :
   * Python Documentation :(https://docs.python.org/3/)
   * SQL Documentation : (https://dev.mysql.com/doc/)
