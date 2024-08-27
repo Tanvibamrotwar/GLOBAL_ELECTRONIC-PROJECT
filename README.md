@@ -17,7 +17,7 @@ ________________________________________________________________________________
    * Open CSV files in Python, load all important libraries that we need for analyzing data, Check for missing values and Handling Missing values and filled null values using appropriate methods.
    * Convert data types where necessary (e.g., dates, numerical values).
    * Merge datasets: Merged all cleaned data into a single DataFrame using the Pandas merge function with the inner join method.
-2. **Load Data:**	
+2. **Load Data:**
    * Use Pymysql to	Insert the preprocessed data into a MYSQL database- by creating  a global_electronic database and table for each respective dataset and using SQL INSERT statements to load the data into the respective 
      table.
 3. **Develop SQL Queries:**
@@ -42,7 +42,7 @@ ________________________________________________________________________________
    * Category Analysis: Analyzed sales performance across different product categories and subcategories.
 
 5.	**Store Analysis:**
-   *  Store Performance: Evaluated store performance based on sales, size (square meters), and operational data (open date).
+   * Store Performance: Evaluated store performance based on sales, size (square meters), and operational data (open date).
    * Geographical Analysis: Analyzed sales by store location to identify high-performing regions.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
   ## Main Recommendations :
