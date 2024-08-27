@@ -21,9 +21,9 @@ ________________________________________________________________________________
    * Use Pymysql to	Insert the preprocessed data into a MYSQL database- by creating  a global_electronic database and table for each respective dataset and using SQL INSERT statements to load the data into the respective 
      table.
 3. **Develop SQL Queries:**
-   * Created 12 MYSQL queries to extract key insights from customer, sales, product, and store data.
+* Created 12 MYSQL queries to extract key insights from customer, sales, product, and store data.
 4. **Power BI Visualization:**
-   * Connected MYSQL to Power BI, imported the data, and created interactive dashboards.
+* Connected MYSQL to Power BI, imported the data, and created interactive dashboards.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
  ## Analysis Steps:
 1.	**Customer Analysis:**
