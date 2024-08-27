@@ -37,13 +37,13 @@ ________________________________________________________________________________
    * Sales by Store: Assess the performance of different stores based on sales data.Sales by Currency: Examine how different currencies impact sales figures, considering exchange rates.
 
 3. **Product Analysis :**
-   * Product Popularity: Identified the most and least popular products based on sales data.
-   * Profitability Analysis: Calculated profit margins for products by comparing unit cost and unit price.
-   * Category Analysis: Analyzed sales performance across different product categories and subcategories.
+* Product Popularity: Identified the most and least popular products based on sales data.
+* Profitability Analysis: Calculated profit margins for products by comparing unit cost and unit price.
+* Category Analysis: Analyzed sales performance across different product categories and subcategories.
 
 5.	**Store Analysis:**
-   * Store Performance: Evaluated store performance based on sales, size (square meters), and operational data (open date).
-   * Geographical Analysis: Analyzed sales by store location to identify high-performing regions.
+* Store Performance: Evaluated store performance based on sales, size (square meters), and operational data (open date).
+* Geographical Analysis: Analyzed sales by store location to identify high-performing regions.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
   ## Main Recommendations :
   * Tailor marketing campaigns to specific customer segments.
