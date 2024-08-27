@@ -17,12 +17,12 @@ ________________________________________________________________________________
    * Open CSV files in Python, load all important libraries that we need for analyzing data, Check for missing values and Handling Missing values and filled null values using appropriate methods.
    * Convert data types where necessary (e.g., dates, numerical values).
    * Merge datasets: Merged all cleaned data into a single DataFrame using the Pandas merge function with the inner join method.
-3.**Load Data:**	
+2.**Load Data:**	
    * Use Pymysql to	Insert the preprocessed data into a MYSQL database- by creating  a global_electronic database and table for each respective dataset and using SQL INSERT statements to load the data into the respective 
      table.
-4. **Develop SQL Queries:**
+3. **Develop SQL Queries:**
    * Created 12 MYSQL queries to extract key insights from customer, sales, product, and store data.
-5.**Power BI Visualization:**
+4.**Power BI Visualization:**
    * Connected MYSQL to Power BI and imported the data, and created interactive dashboards.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
  ## Analysis Steps:
@@ -31,17 +31,17 @@ ________________________________________________________________________________
    * Purchase Patterns: Identified purchasing patterns such as average order value, frequency of purchases, and preferred products.
    * Segmentation: Segmented customers based on demographics and purchasing behavior to identify key customer groups.
 
-3.	**Sales Analysis:**
+2.	**Sales Analysis:**
    * Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality.
    * Sales by Product: Evaluate which products are the top performers in terms of quantity sold and revenue generated.
    * Sales by Store: Assess the performance of different stores based on sales data.Sales by Currency: Examine how different currencies impact sales figures, considering exchange rates.
 
-5.**Product Analysis :**
+3. **Product Analysis :**
    * Product Popularity: Identified the most and least popular products based on sales data.
    * Profitability Analysis: Calculated profit margins for products by comparing unit cost and unit price.
    * Category Analysis: Analyzed sales performance across different product categories and subcategories.
 
-6.	**Store Analysis:**
+4.	**Store Analysis:**
    *  Store Performance: Evaluated store performance based on sales, size (square meters), and operational data (open date).
    * Geographical Analysis: Analyzed sales by store location to identify high-performing regions.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
