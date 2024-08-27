@@ -56,7 +56,7 @@ ________________________________________________________________________________
      * Improve international pricing strategies to maximize profits.  
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________
   ## References :
-     * Python Documentation : https://docs.python.org/3/
+     "*" Python Documentation : https://docs.python.org/3/
      * SQL Documentation : https://dev.mysql.com/doc/
      * PowerBi Documentation : https://learn.microsoft.com/en-us/power-bi/
      * EDA Documentation : https://python-data-science.readthedocs.io/en/latest/exploratory.html
